@@ -12,6 +12,7 @@ public class ExaminationGrade {
 	 */
 	private Student student;
 
+	
 	/**
 	 * Examination in which the student achieved this grade
 	 */
